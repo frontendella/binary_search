@@ -9,7 +9,6 @@
   - Array splitting
   - Array View
   - Array Partition
-
 Project is made with the help of [Scrimba](https://scrimba.com/allcourses) learning resources
 
 
